@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Carregar os dados do CSV
-data = pd.read_csv('imc_dataset.csv')
+data = pd.read_csv('Obesity Classification.csv')
 
 # Mapear as categorias de rótulo para cores
 label_colors = {
