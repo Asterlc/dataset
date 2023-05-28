@@ -1,0 +1,21 @@
+# Arquivos de compilação
+*.pyc
+*.pyo
+*.exe
+*.dll
+*.so
+*.out
+*.log
+
+# Diretórios
+__pycache__/
+dist/
+build/
+.env/
+
+# Arquivos específicos
+imc_dataset.csv
+
+# Outros
+.idea/
+.vscode/
